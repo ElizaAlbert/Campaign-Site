@@ -1,0 +1,200 @@
+/*
+Theme Name: CMS2 Campaign Site
+Author: Eliza Albert
+Description: A campaign page made for audiobook made for a school project
+Version: 1.0
+*/
+
+/******************* NAVBAR - MENU  *******************/
+
+.navbar {
+  background-color: #fab45b;
+  margin-top: 0;
+  box-shadow: 0px 5px 15px -7px rgba(0, 0, 0, 0.05);
+  max-height: 6em;
+}
+
+.navbar-brand {
+  padding-top: 0;
+  margin-top: 65px;
+  margin-bottom: 55px;
+  margin-left: 3%;
+  padding-right: 9em;
+}
+
+.nav-item {
+  text-align: center;
+  font-size: 23px;
+  margin-bottom: -5px;
+  padding-right: 8em;
+}
+
+/**************** FIRST YELLOW SECTION  ****************/
+
+#first-yellow-section {
+  background: #fab45b;
+  min-height: 87vh;
+  text-align: center;
+}
+
+/* IPHONE AND BOOK COVERS */
+.img-fluid {
+  max-width: 61% !important;
+  height: auto;
+  margin-top: 1.3em;
+  margin-right: 4em;
+}
+
+.support {
+  margin-left: 5%;
+  padding: 7.5em 0em 0em 0em;
+  width: 27%;
+}
+
+.btn {
+  background-color: #4ca12e;
+  border-radius: 5em;
+  width: 7em;
+}
+
+#exampleInputName1 {
+  margin-top: 5%;
+}
+
+#exampleInputEmail1 {
+  margin-top: 7%;
+}
+
+/*************** FIRST CREAM SECTION  ***************/
+#first-cream-section {
+  background: #f1dcc0;
+  height: auto;
+  text-align: center;
+  margin: 0;
+}
+
+.about-top-line {
+  border-top: 1px solid #000;
+}
+
+.about-bottom-line {
+  border-bottom: 1px solid #000;
+}
+
+.about {
+  padding: 5em;
+}
+
+.last-text {
+  float: right;
+  width: 500px;
+  margin-bottom: 1em;
+}
+
+/*************** FIRST GREEN SECTION  ***************/
+#first-green-section-redo {
+  background: #495424;
+  min-height: 100%;
+  margin: 0;
+  text-align: center;
+  padding: 2em;
+}
+
+.news-bottom-line {
+  border-bottom: 3px solid #f1dcc0;
+  margin: 0;
+  margin-left: 40%;
+  margin-right: 40%;
+}
+
+/************* SECOND YELLOW SECTION  *************/
+
+#second-yellow-section {
+  background: #fab45b;
+  min-height: 80vh;
+  margin: 0;
+  text-align: center;
+}
+
+.col-6 {
+  margin: 1em;
+  cursor: pointer;
+  -webkit-box-shadow: 0px 0px 16px -6px #000000;
+  box-shadow: 0px 0px 16px -6px #00000044;
+  border-radius: 3em;
+  font-size: 70px;
+}
+
+/***************** CREAM FOOTER *****************/
+.cream-footer {
+  background: #fab45b;
+  min-height: 30vh !important;
+  margin-top: auto;
+  text-align: center;
+}
+
+.page-footer {
+  padding: 5em;
+}
+
+div.custom-menu-class ul {
+  margin: 20px 0px 20px 0px;
+  list-style-type: none;
+  list-style: none;
+  list-style-image: none;
+  text-align: right;
+}
+div.custom-menu-class li {
+  display: inline;
+  font-size: 25px;
+  margin: 2em;
+}
+div.custom-menu-class a {
+  color: #ffffff;
+}
+
+.hero-menu {
+  background: #fab45b;
+}
+
+#menu-hero-menu {
+  margin: 0;
+  background-color: #fab45b;
+  padding-top: 2em;
+  text-align: center;
+  padding-bottom: 1em;
+}
+
+.logo-top {
+  margin-left: 3.5em;
+  margin-top: 0.2em;
+}
+
+/************* GREEN AND CREAM SECTION  *************/
+.green-side {
+  background: #495424;
+  min-height: 50vh !important;
+  margin: 0;
+  text-align: center;
+  width: 50%;
+  padding: 3em;
+  color: #f1dcc0;
+}
+
+.cream-side {
+  background: #f1dcc0;
+  min-height: 50vh !important;
+  margin: 0;
+  text-align: center;
+  width: 50%;
+  padding: 3em;
+  color: #495424;
+}
+
+.page-footer {
+  padding: 0em;
+}
+
+.bottom-image {
+  max-width: 100% !important;
+}
